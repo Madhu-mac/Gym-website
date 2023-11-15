@@ -13,19 +13,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Experience top-notch facilities with cutting-edge equipment, providing a conducive environment for your fitness journey. We aim to deliver the best experience with a focus on your ultimate fitness goals.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Choose from a wide variety of classes tailored to your preferences. Our diverse offerings ensure there's something for everyone. We prioritize your well-being with expert trainers and a range of classes.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Benefit from our expert trainers who bring professionalism and expertise to every session. Whether you're a beginner or an experienced fitness enthusiast, our trainers are dedicated to helping you achieve your fitness goals.",
   },
 ];
 
@@ -121,18 +121,10 @@ function Benefits({ setSelectedPage}: Props) {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              Experience a nurturing environment with world-class fitness equipment and trainers. Our classes are designed to guide you effortlessly toward your fitness goals. We genuinely care about each and every member.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              Our millions of happy members are achieving their fitness goals. Come and Embark your Fitness jounrney
               </p>
             </motion.div>
 
