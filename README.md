@@ -1,27 +1,59 @@
-# React + TypeScript + Vite
+# Evo Gym Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brief description or tagline of your React + TypeScript + Tailwind CSS website.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Project Overview](#project-overview)
 
-## Expanding the ESLint configuration
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Project Overview
 
-- Configure the top-level `parserOptions` property like this:
+# Gym Website
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+Welcome to the Gym Website project! This repository contains the source code for a fitness website designed to showcase various gym-related information and services.
+
+## Project Overview
+
+Experience the epitome of frontend development with our Gym Website project:
+
+- **Pure Frontend Excellence:** Immerse yourself in a frontend-focused project that showcases captivating user interfaces without backend complexities.
+
+- **Responsive Design with Framer Motion:** Enjoy a responsive website that seamlessly adapts to various devices, enriched with smooth animations and transitions courtesy of Framer Motion.
+
+- **Efficient Form Validation using React-Form:** Seamlessly register users with confidence, thanks to powerful form validation provided by React-Form.
+
+- **Admin Notifications:** Facilitate quick administrative actions by ensuring prompt notifications to admins upon user registration.
+
+## Installation
+
+Follow these steps to install and set up the project locally. Make sure you have the necessary prerequisites and dependencies installed.
+
+
+```bash
+# Clone the repository
+git clone https://github.com/Madhu-mac/Gym-website.git
+
+# Navigate to the project directory
+cd Gym-website
+
+# Install dependencies
+npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Usage
+``
+npm start
+``
+
+## Technologies Used
+- Reactjs
+- Typescript
+- Tailwind Css
+- React Form
+- Framer Motion
